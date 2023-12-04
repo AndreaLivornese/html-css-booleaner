@@ -34,6 +34,17 @@ th{
     text-align: left;
 }
 
+#monitor{
+    background-image: url("C:/Boolean/html-css-booleaner/img/monitor.jpg");
+    background-size: contain;
+}
+
+#graph{
+    background-image: url("C:/Boolean/html-css-booleaner/img/graph.jpg");
+    background-size: contain;
+} 
+
+
 .blue-text{
     color:blue;
 }
@@ -54,6 +65,15 @@ th{
 
 .font-grey{
     color:grey;
+}
+
+.immagini{
+    display: block;
+}
+
+.square{
+    width: 200px;
+    height: 130px;
 }
 
 
