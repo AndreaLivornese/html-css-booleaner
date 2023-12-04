@@ -7,6 +7,11 @@ p{
     font-weight: 400;;
 }
 
+th{
+    color:white;
+    font-weight: bold;
+}
+
 #logo{
     height: 100px;
     width: auto;
