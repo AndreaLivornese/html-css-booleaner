@@ -28,6 +28,11 @@ th{
     background-color: rgb(41, 60, 95);
 }
 
+#cella-finale{
+    width: 50%;  
+    height: auto;
+    text-align: left;
+}
 
 .blue-text{
     color:blue;
@@ -36,6 +41,13 @@ th{
 .evidenziato{
     background-color: yellow;
 }
+
+.celle{
+    width: 20%;
+    height: auto;
+    text-align: left;
+}
+
 
 
 
