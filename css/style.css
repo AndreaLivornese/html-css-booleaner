@@ -22,6 +22,8 @@ th{
 #logo{
     height: 100px;
     width: auto;
+    position: relative;
+    top: 50%;
 }
 
 #header-row{
