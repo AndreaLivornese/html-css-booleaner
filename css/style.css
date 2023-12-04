@@ -19,17 +19,20 @@ th{
     font-weight: bold;
 }
 
-#logo{
+/* stile del logo nell'header */
+#logo{   
     height: 100px;
     width: auto;
     position: relative;
     top: 50%;
 }
 
+/* prima riga della tabella */
 #header-row{
     background-color: rgb(41, 60, 95);
 }
 
+/* ultime celle a destra della tabella */
 #cella-finale{
     width: 50%;  
     height: auto;
@@ -51,16 +54,19 @@ th{
     color:blue;
 }
 
+
 .evidenziato{
     background-color: yellow;
 }
 
+/* celle della tabella */
 .celle{
     width: 20%;
     height: auto;
     text-align: left;
 }
 
+/* colore delle righe */
 .color-row{
     background-color: rgb(121, 168, 255);
 }
