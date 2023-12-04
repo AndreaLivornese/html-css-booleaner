@@ -1,4 +1,11 @@
 #logo{
-    height: 50px;
+    height: 100px;
     width: auto;
+}
+
+header{
+    background-color: aqua;
+    background-image: url("C:/Boolean/html-css-booleaner/img/pattern.png");
+    height: 200px;
+    width: 100%;
 }
