@@ -13,3 +13,7 @@ header{
 .blue-text{
     color:blue;
 }
+
+.evidenziato{
+    background-color: yellow;
+}
