@@ -2,6 +2,13 @@ ul{
     padding:15px;
 }
 
+header{
+    background-color: aqua;
+    background-image: url("C:/Boolean/html-css-booleaner/img/pattern.png");
+    height: 200px;
+    width: 100%;
+}
+
 p{
     font-size: 18px;
     font-weight: 400;;
@@ -17,12 +24,10 @@ th{
     width: auto;
 }
 
-header{
-    background-color: aqua;
-    background-image: url("C:/Boolean/html-css-booleaner/img/pattern.png");
-    height: 200px;
-    width: 100%;
+#header-row{
+    background-color: rgb(41, 60, 95);
 }
+
 
 .blue-text{
     color:blue;
@@ -31,5 +36,6 @@ header{
 .evidenziato{
     background-color: yellow;
 }
+
 
 
