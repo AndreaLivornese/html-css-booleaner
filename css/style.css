@@ -1,3 +1,7 @@
+ul{
+    padding:15px;
+}
+
 p{
     font-size: 18px;
     font-weight: 400;;
@@ -22,3 +26,5 @@ header{
 .evidenziato{
     background-color: yellow;
 }
+
+
