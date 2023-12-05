@@ -4,7 +4,7 @@ ul{
 
 nav{
     background-color: aqua;
-    background-image: url("C:/Boolean/html-css-booleaner/img/pattern.png");
+    background-image: url("../img/pattern.png");
     height: 200px;
     width: 100%;
 }
@@ -40,12 +40,12 @@ th{
 }
 
 #monitor{
-    background-image: url("C:/Boolean/html-css-booleaner/img/monitor.jpg");
+    background-image: url("../img/monitor.jpg");
     background-size: contain;
 }
 
 #graph{
-    background-image: url("C:/Boolean/html-css-booleaner/img/graph.jpg");
+    background-image: url("../img/graph.jpg");
     background-size: contain;
 } 
 
