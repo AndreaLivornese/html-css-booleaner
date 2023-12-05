@@ -19,6 +19,10 @@ th{
     font-weight: bold;
 }
 
+table{
+    border-collapse: collapse;
+}
+
 /* stile del logo nell'header */
 #logo{   
     height: 100px;
