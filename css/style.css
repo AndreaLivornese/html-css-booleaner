@@ -49,12 +49,12 @@ table{
 
 #monitor{
     background-image: url("../img/monitor.jpg");
-    background-size: contain;
+    background-size: 100% 100%;
 }
 
 #graph{
     background-image: url("../img/graph.jpg");
-    background-size: contain;
+    background-size: 100% 100%;
 } 
 
 
