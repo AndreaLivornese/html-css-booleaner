@@ -1,12 +1,49 @@
-ul{
-    padding:20px;
-}
+*{
+    margin: 0;
 
+    box-sizing: border-box;
+}
+ /* nav */
 nav{
-    background-color: aqua;
-    background-image: url("../img/pattern.png");
     height: 200px;
     width: 100%;
+
+    padding-top: 100px;
+    padding-left:10px;
+    
+    background-color: aqua;
+    background-image: url("../img/pattern.png");
+}
+
+#logo{   
+    height: 100px;
+    width: auto;
+
+}
+
+ /* fine nav */
+
+
+body>div{
+    padding-left: 10px;
+    padding-right:10px;
+}
+
+
+/* header */
+.blue-text{
+    color:blue;
+}
+
+.font-grey{
+    color:grey;
+}
+
+/* fine header */
+
+/* main */
+ul{
+    padding:20px;
 }
 
 p{
@@ -14,6 +51,13 @@ p{
     font-weight: 400;
 }
 
+.evidenziato{
+    background-color: yellow;
+}
+/* fine main */
+
+
+/* table */
 th{
     color:white;
     font-weight: bold;
@@ -23,26 +67,29 @@ table{
     border-collapse: collapse;
 }
 
-/* stile del logo nell'header */
-#logo{   
-    height: 100px;
-    width: auto;
-    position: relative;
-    top: 50%;
-}
-
-/* prima riga della tabella */
 #header-row{
     background-color: rgb(41, 60, 95);
 }
 
-/* ultime celle a destra della tabella */
 #cella-finale{
     width: 50%;  
     height: auto;
     text-align: left;
 }
 
+.celle{
+    width: 20%;
+    height: auto;
+    text-align: left;
+}
+
+.color-row{
+    background-color: rgb(121, 168, 255);
+}
+/* fine table */
+
+
+/* feed */
 #feed{
     font-size: 1em;
 }
@@ -55,32 +102,6 @@ table{
 #graph{
     background-image: url("../img/graph.jpg");
     background-size: 100% 100%;
-} 
-
-
-.blue-text{
-    color:blue;
-}
-
-
-.evidenziato{
-    background-color: yellow;
-}
-
-/* celle della tabella */
-.celle{
-    width: 20%;
-    height: auto;
-    text-align: left;
-}
-
-/* colore delle righe */
-.color-row{
-    background-color: rgb(121, 168, 255);
-}
-
-.font-grey{
-    color:grey;
 }
 
 .square{
@@ -94,6 +115,14 @@ table{
     color: white;
     font-weight: bold;
 }
+/* fine feed */
+
+
+
+
+
+
+
 
 
 
